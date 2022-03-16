@@ -24,9 +24,9 @@ To use the Writing pad, please run file "MainWidget.py"<br/>
 Click on "Start recognition" when you finish writing a letter, the result will be shown on the screen and the current letter you write will be saved in “test.png”<br/>
 
 ## Maintainers
-> Liu Yuanchen email: sgyliu78@liverpool.ac.uk<br/>
-> Wu Guanjie<br/>
-> Qiu Jiachun<br/>
-> Luo Xinbo
+> [Liu Yuanchen](https://github.com/hcccccccccc) email: sgyliu78@liverpool.ac.uk <br/>
+> Wu Guanjie email: sggwu2@liverpool.ac.uk <br/>
+> Qiu Jiachun email: sgjqiu2@liverpool.ac.uk <br/>
+> Luo Xinbo email: sgxluo7@liverpool.ac.uk <br/>
 For any questions please send a email to us or post
 ##

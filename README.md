@@ -25,8 +25,8 @@ Click on "Start recognition" when you finish writing a letter, the result will b
 
 ## Maintainers
 > [Liu Yuanchen](https://github.com/hcccccccccc) email: sgyliu78@liverpool.ac.uk <br/>
-> Wu Guanjie email: sggwu2@liverpool.ac.uk <br/>
-> Qiu Jiachun email: sgjqiu2@liverpool.ac.uk <br/>
-> Luo Xinbo email: sgxluo7@liverpool.ac.uk <br/>
+> [Wu Guanjie](https://github.com/Kann203954) email: sggwu2@liverpool.ac.uk <br/>
+> [Qiu Jiachun](https://github.com/ch3ohzz) email: sgjqiu2@liverpool.ac.uk <br/>
+> [Luo Xinbo](https://github.com/mavericklaw) email: sgxluo7@liverpool.ac.uk <br/>
 For any questions please send a email to us or post
 ##

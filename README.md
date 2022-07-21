@@ -23,6 +23,7 @@ For testing new model, please set the path to where your model saved and then be
 To use the Writing pad, please run file "MainWidget.py"<br/>
 Click on "Start recognition" when you finish writing a letter, the result will be shown on the screen and the current letter you write will be saved in “test.png”<br/>
 
+For more information please visit our [blog](https://handwriting-recognition.blogspot.com/).
 ## Maintainers
 > [Liu Yuanchen](https://github.com/hcccccccccc) email: sgyliu78@liverpool.ac.uk <br/>
 > [Wu Guanjie](https://github.com/Kann203954) email: sggwu2@liverpool.ac.uk <br/>
